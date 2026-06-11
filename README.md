@@ -58,7 +58,7 @@ The rapid adoption of Artificial Intelligence (AI) in education is transforming 
 - Enhanced educational experience.
 
 ## Reference Article
-https://www.unesco.org/en/artificial-intelligence/education
+https://www.ibm.com/topics/artificial-intelligence-education
 
 ## Lucidchart Diagram
 https://lucid.app/lucidchart/738027ba-0fdb-4346-b307-f7c441f21147/edit?view_items=a.A5k2243FmL&page=0_0&invitationId=inv_f5af98f8-cc16-410a-b5d9-a7ed67a00253
